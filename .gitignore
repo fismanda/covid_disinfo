@@ -1,0 +1,30 @@
+# Data files (not redistributable)
+*.sav
+*.por
+*.dta
+*.csv
+
+# Output files
+*.docx
+*.pdf
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
